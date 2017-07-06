@@ -1,0 +1,10 @@
+*.iml
+## Directory-based project format:
+.idea/
+# IntelliJ
+out/
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+### Gradle ###
+.gradle
+build/
