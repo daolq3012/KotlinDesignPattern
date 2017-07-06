@@ -1,4 +1,4 @@
-package com.fstyle.java_design_pattern.structural.adapter
+package structural.adapter
 
 /**
  * Created by framgia on 06/07/2017.

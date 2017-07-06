@@ -1,4 +1,4 @@
-package com.fstyle.java_design_pattern.structural.flyweight
+package structural.flyweight
 
 /**
  * Created by framgia on 06/07/2017.
@@ -9,10 +9,10 @@ object Flyweight {
   @JvmStatic fun main(args: Array<String>) {
     for (i in 0..20) run {
       val circle: Circle = ShapeFactory.getCircle(getRandomColor()) as Circle
-      circle?.setX(getRandomX())
-      circle?.setY(getRandomY())
-      circle?.setRadius(100)
-      circle?.draw()
+      circle.setX(getRandomX())
+      circle.setY(getRandomY())
+      circle.setRadius(100)
+      circle.draw()
     }
   }
 
