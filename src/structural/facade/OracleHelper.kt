@@ -1,4 +1,4 @@
-package com.fstyle.java_design_pattern.structural.facade
+package structural.facade
 
 import java.sql.Connection
 
@@ -7,16 +7,16 @@ import java.sql.Connection
  */
 class OracleHelper {
 
-  companion object {
-    val oracleDbConnection: Connection?
-      get() = null
-  }
+    companion object {
+        val oracleDbConnection: Connection?
+            get() = null
+    }
 
-  fun generateOraclePDFReport(con: Connection?, tableName: String) {
-    // get data from table and generate pdf report
-  }
+    fun generateOraclePDFReport(con: Connection?, tableName: String) {
+        // get data from table and generate pdf report
+    }
 
-  fun generateOraclelHTMLReport(con: Connection?, tableName: String) {
-    // get data from table and generate pdf report
-  }
+    fun generateOraclelHTMLReport(con: Connection?, tableName: String) {
+        // get data from table and generate pdf report
+    }
 }

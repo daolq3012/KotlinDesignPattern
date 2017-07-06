@@ -1,4 +1,4 @@
-package com.fstyle.java_design_pattern.structural.composite
+package structural.composite
 
 /**
  * Created by framgia on 05/07/2017.

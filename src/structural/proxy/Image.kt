@@ -1,4 +1,4 @@
-package com.fstyle.java_design_pattern.structural.proxy
+package structural.proxy
 
 /**
  * Created by framgia on 06/07/2017.

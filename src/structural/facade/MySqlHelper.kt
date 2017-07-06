@@ -1,4 +1,4 @@
-package com.fstyle.java_design_pattern.structural.facade
+package structural.facade
 
 import java.sql.Connection
 
@@ -7,18 +7,18 @@ import java.sql.Connection
  */
 class MySqlHelper {
 
-  companion object {
-    fun getMySqlDBConnection(): Connection? {
-      // get MySql DB connection using connection parameters
-      return null
+    companion object {
+        fun getMySqlDBConnection(): Connection? {
+            // get MySql DB connection using connection parameters
+            return null
+        }
     }
-  }
 
-  fun generateMySqlPDFReport(con: Connection?,tableName: String) {
-    // get data from table and generate pdf report
-  }
+    fun generateMySqlPDFReport(con: Connection?, tableName: String) {
+        // get data from table and generate pdf report
+    }
 
-  fun generateMySqlHTMLReport(con: Connection?,tableName: String) {
-    // get data from table and generate pdf report
-  }
+    fun generateMySqlHTMLReport(con: Connection?, tableName: String) {
+        // get data from table and generate pdf report
+    }
 }

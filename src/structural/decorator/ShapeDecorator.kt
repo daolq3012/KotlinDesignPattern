@@ -1,4 +1,4 @@
-package com.fstyle.java_design_pattern.structural.decorator
+package structural.decorator
 
 /**
  * Created by framgia on 05/07/2017.
@@ -6,7 +6,7 @@ package com.fstyle.java_design_pattern.structural.decorator
 
 abstract class ShapeDecorator(protected var decoratedShape: Shape) : Shape {
 
-  override fun draw() {
-    decoratedShape.draw()
-  }
+    override fun draw() {
+        decoratedShape.draw()
+    }
 }

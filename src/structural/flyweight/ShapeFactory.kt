@@ -1,4 +1,4 @@
-package com.fstyle.java_design_pattern.structural.flyweight
+package structural.flyweight
 
 /**
  * Created by framgia on 06/07/2017.
