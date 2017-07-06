@@ -1,5 +1,3 @@
-package com.fstyle.java_design_pattern.create.singleton
-
 import create.singleton.SimpleSingleton
 
 /**
