@@ -1,2 +1,4 @@
 # IntelliJ
 out/
+.idea/workspace.xml
+.idea/preferred-vcs.xml
