@@ -35,22 +35,22 @@ Any comments/bugs/better ways of doing things, send 'em my way.
 
 ### Behavioral Design Patterns
 
-1. Strategy
-2. State
-3. Common
-4. Iterator
-5. Mediator
-6. Observer
-7. Visitor
-8. Memento
-9. Chain of repository
-10. Template method
+1. [Strategy](https://github.com/daolq3012/KotlinDesignPattern/blob/master/docs/Strategy.md)
+2. [State](https://github.com/daolq3012/KotlinDesignPattern/blob/master/docs/State.md)
+3. [Command](https://github.com/daolq3012/KotlinDesignPattern/blob/master/docs/Command.md)
+4. [Iterator](https://github.com/daolq3012/KotlinDesignPattern/blob/master/docs/Iterator.md)
+5. [Mediator](https://github.com/daolq3012/KotlinDesignPattern/blob/master/docs/Mediator.md)
+6. [Observer](https://github.com/daolq3012/KotlinDesignPattern/blob/master/docs/Observer.md)
+7. [Visitor](https://github.com/daolq3012/KotlinDesignPattern/blob/master/docs/Visitor.md)
+8. [Memento](https://github.com/daolq3012/KotlinDesignPattern/blob/master/docs/Memento.md)
+9. [Chain of repository](https://github.com/daolq3012/KotlinDesignPattern/blob/master/docs/ChainOfRepository.md)
+10. [Template method](https://github.com/daolq3012/KotlinDesignPattern/blob/master/docs/TemplateMethod.md)
 
 ## ☑ TODO
 
 - [X] Add Examples For Creational Design Patterns
 - [X] Add Examples For Structural Design Patterns
-- [ ] Add Examples For Behavioral Design Patterns
+- [X] Add Examples For Behavioral Design Patterns
 - [ ] Update documentation for each
 - [ ] Add more Examples follow [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 
