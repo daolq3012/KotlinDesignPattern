@@ -21,4 +21,4 @@ TBD
 TBD
 
 ### Source Code:
-TBD
+https://github.com/daolq3012/KotlinDesignPattern/tree/master/src/behavioral/observer
