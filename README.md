@@ -46,6 +46,13 @@ Any comments/bugs/better ways of doing things, send 'em my way.
 9. [Chain of repository](https://github.com/daolq3012/KotlinDesignPattern/blob/master/docs/ChainOfRepository.md)
 10. [Template method](https://github.com/daolq3012/KotlinDesignPattern/blob/master/docs/TemplateMethod.md)
 
+
+### Others Patterns
+
+1. [MVC](https://github.com/daolq3012/KotlinDesignPattern/blob/master/docs/MVC.md)
+
+
+
 ## ☑ TODO
 
 - [X] Add Examples For Creational Design Patterns
